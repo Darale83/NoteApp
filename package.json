@@ -1,0 +1,20 @@
+{
+  "name": "borquez-a198d5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensolvers-github-challenges/Borquez-a198d5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ensolvers-github-challenges/Borquez-a198d5/issues"
+  },
+  "homepage": "https://github.com/ensolvers-github-challenges/Borquez-a198d5#readme"
+}
